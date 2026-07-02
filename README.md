@@ -123,9 +123,9 @@ QR-Code drucken
 
 ```
 Marcus Dziersan
-https://marcus-dziersan.de
+https://marcus-dziersan.net
 
-kontakt@marcus-dziersan.de
+kontakt@marcus-dziersan.net
 ```
 
 oder
@@ -215,9 +215,3 @@ Ein Dank geht an die Open-Source-Community für die Analyse des YHK-Druckprotoko
 ## Autor
 
 **Marcus Dziersan**
-
-GitHub:
-https://github.com/
-
-Website:
-https://marcus-dziersan.de
